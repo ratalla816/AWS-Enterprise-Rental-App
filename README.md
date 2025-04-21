@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=X1zCAPLvMtw
 ***
 
 
-left off at: 
+left off at: https://youtu.be/X1zCAPLvMtw?t=1404
 
 *** 
 
