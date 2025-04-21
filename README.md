@@ -22,6 +22,9 @@ Build a Scalable Real Estate Application with **Next.js**, **Node.js**, and **AW
 
  #2 
  npm i -D @types/node @types/uuid
+
  #3
  npx shadcn@latest add avatar badge button card checkbox command dialog dropdown-menu form input label navigation-menu radio-group select seperator sheet sidebar skeleton slider sonner switch table tabs textarea tooltip 
- 
+
+ #4 
+ npm i react-redux @reduxjs/toolkit dotenv --legacy-peer-deps
